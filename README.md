@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-### I'm a beginner Python Developer!
+### I'm a Data Scientist!
 
-🐱‍🏍 Interested in Data Science and Machine Learning.
+🐱‍🏍 Interested in Computer Vision and Deep Learning.
 
-✔  I have already mastered Python, JSON, PostgreSQL, Multiprocessing, WebScraping with requests and Selenium, NumPy, Pandas, Data Visualization with Matplotlib and Seaborn.
+✔  In my projects I used: 
+NumPy, Pandas for data preparation;
+Scikit-Learn, Keras, Tensorflow for creating models;
+Matplotlib and Seaborn for data visualization;
+Also I can find data using WebScraping with request and Selenium and working with database using PostgreSQL
 
 ✨ You can find my projects in repository.
 
 🐱‍💻 I am open to cooperation and work!
 
-📫 How to reach me: ...
+📫 How to reach me: https://www.linkedin.com/in/denys-shcherbina/
 
 
 Thanks for your attention!😊
