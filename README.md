@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I'm a Data Scientist!
+### I'm a Data Scientist / ML Engineer!
 
-🐱‍🏍 Interested in Computer Vision and Deep Learning.
+🐱‍🏍 Interested in Data Science, ML and Deep Learning.
 
 ✔  In my projects I used: 
 NumPy, Pandas for data preparation;
